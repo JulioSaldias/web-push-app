@@ -1,5 +1,5 @@
 const PUBLIC_VAPID_KEY =
-  'BD7qqZ-dADTmG4_CEx5-oW6S6N47zOU2vFTNwNvYNnfZpHeF8CGcIC0TJAbwh7tmDz_O-N-keFTyI9FSc5EFB0M';
+  'TU CLAVE PUBLICA';
 
   function urlBase64ToUint8Array(base64String) {
     const padding = "=".repeat((4 - (base64String.length % 4)) % 4);
